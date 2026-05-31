@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerperify",
+        "uuid": 21183120,
+        "checksum": "esl23f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
